@@ -165,4 +165,7 @@ body {
     .why-choose-item .icon-box {
         margin-left: 10px;
     }
+    .whatsapp img {
+        margin: 0;
+    }
 }
